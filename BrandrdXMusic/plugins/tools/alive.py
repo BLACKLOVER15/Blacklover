@@ -8,22 +8,22 @@ from config import MUSIC_BOT_NAME
 
 @app.on_message(filters.command(["alive"]))
 async def start(client: Client, message: Message):
-    await message.reply_video(
-        video=f"https://graph.org/file/e999c40cb700e7c684b75.mp4",
-        caption=f"❤️ ʜᴇʏ {message.from_user.mention}\n\n🔮 ɪ ᴀᴍ {MUSIC_BOT_NAME}\n\n✨ ɪ ᴀᴍ ғᴀsᴛ ᴀɴᴅ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs.\n\n💫 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ🤍...\n\n━━━━━━━━━━━━━━━━━━❄",
+    await message.reply_photo(
+        photo=f"https://te.legra.ph/file/bbc50618ccebcb58e03d2.jpg",
+        caption=f"🖤 ʜᴇʏ {message.from_user.mention}\n\n🔮 ɪ ᴀᴍ {MUSIC_BOT_NAME}\n\n✨ ɪ ᴀᴍ ғᴀsᴛ ᴀɴᴅ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs.\n\n💫 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ🤍...\n\n━━━━━━━━━━━━━━━━━━❄",
         reply_markup=InlineKeyboardMarkup(
             [
                [
             InlineKeyboardButton(
-                text="☆ ʙʀᴀɴᴅᴇᴅ 💗 ", url=f"https://t.me/BRANDRDKING82"
+                text="☆ B͏L͏A͏C͏K͏ L͏O͏V͏E͏R͏ 🖤 ", url=f"https://t.me/Blacklover_uff"
             ),
             InlineKeyboardButton(
-                text="☆ ꜱᴜᴘᴘᴏʀᴛ 💗", url=f"https://t.me/BRANDED_WORLD"
+                text="☆ S͏U͏P͏P͏O͏R͏T͏ 🖤", url=f"https://t.me/Exampur20"
             ),
         ],
                 [
             InlineKeyboardButton(
-                text="☆ ᴄʜᴀɴɴᴇʟ💗", url=f"https://t.me/BRANDRD_BOT"
+                text="☆ C͏H͏A͏N͏N͏E͏L͏ 🖤", url=f"https://t.me/BlackMusicSupport"
             ),
                 ],
                 [
