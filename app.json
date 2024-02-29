@@ -1,7 +1,7 @@
 {
-    "name": "⛦BrandrdXMusic⛦",
+    "name": "⛦BlackloverNew⛦",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/62fa7c81c56c1ae31c844.jpg",
+    "logo": "https://te.legra.ph/file/11adba95c2c26ae877ccf.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "28916182",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "d1b35f94f2b90716d76f8f318abedce9",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,16 +29,16 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://Blackloverbots:Blackbots@cluster0.q4liemh.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "6950353753",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram v2 String Session from @BRANDEDSTRINGSESSION_BOT on Telegram.",
+        "description": "A Pyrogram v2 String Session from @StringsessionBlack_bot on Telegram.",
         "value": "",
         "required": true
       },
@@ -49,12 +49,12 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "",
+        "value": "BlackLoverMusic",
         "required": false
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Don't Add Channel's ID.",
-        "value": "",
+        "value": "-1002108904207",
         "required": true
       }
     },
