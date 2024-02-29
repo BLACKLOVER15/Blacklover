@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「🖤 BLACK LOVET NEW MUSIX 🖤」──
+    ──「🖤 BLACK LOVER NEW MUSIX 🖤」──
 </h2>
 
 <p align="center">
